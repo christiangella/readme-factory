@@ -6,9 +6,7 @@ This project utilizes JavaScript and Node in order to collect user inputs and cr
 
 [![License: MIT](https://shields.io/badge/License-MIT-gold.svg)](https://opensource.org/licenses/MIT)
 
-<div style='text-align: center;'>
 · · ────────────────── · ·
-</div>
 
 ## Table of Contents
   - [Description](#description)
@@ -26,7 +24,9 @@ This project utilizes JavaScript and Node in order to collect user inputs and cr
 
 The deployed application and repository contains the following features:
 
-The project makes use of JavaScript, Node, and Inquirer@8.2.4.
+- The project makes use of **JavaScript**, **Node**, and **Inquirer@8.2.4**.
+- Makes use of Inquirer to collect user inputs and collect data.
+- Returns an error if a README.md is unable to be generated.
 
 ## Roadmap
 
@@ -55,6 +55,8 @@ Feel free to modify the script for this project and create a fork. Suggestions a
 
 In the terminal, navigate to the repository folder and run node index.js. The script will run and all inputs must be completed.
 
+[A completed demo can be found at this link.](https://watch.screencastify.com/v/2ksVjoWD5mLGJMmkVkJT)
+
 ## Questions
 
 This repository was created by Manong Chris. For further support, reach out by email at christian.gella@gmail.com or by Github at christiangella.
@@ -65,7 +67,5 @@ This project is covered by a(n) MIT license.
 
 [![License: MIT](https://shields.io/badge/License-MIT-gold.svg)](https://opensource.org/licenses/MIT)
 
-<div style='text-align: center;'>
 · · ────────────────── · ·
-</div>
 
